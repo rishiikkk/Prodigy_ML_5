@@ -37,5 +37,3 @@ Our [baseline](https://github.com/Liang-yc/CalorieEstimation) project used mathm
 | --- | --- | --- |
 | KNN | 21.06 | 45.69 |
 | Random Forest | 13.21 | 30.37 |
-
-You can see more result and information about our project in our [final report](finalReport.pdf)
