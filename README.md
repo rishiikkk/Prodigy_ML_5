@@ -1,6 +1,4 @@
 # Prodigy_ML_5
-# SeeFood
-
 In this project, my group mates and I built Food Calories Estimation System using with machine learning methods.
 
 ![](giphy.gif)
